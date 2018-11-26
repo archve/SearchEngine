@@ -6,7 +6,7 @@ Execution Steps:
 Prerequisite – lyrics.csv file should be present in the same directory
 Run indexing.py file from folder Search Engine
  > python ./indexing.py
- Input option 1 when prompted
+Input option 1 when prompted
 2.	Searching:
 Prerequisite - Need a engine.db file to run.
 Execute SearchEngine.py to open the homepage of the application. Enter query and choose appropriate search option to see the results. Different components of the UI are explained in the design document
