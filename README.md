@@ -1,6 +1,9 @@
 # SearchEngine
 A Domain Specific Information Retrieval System
 
+Dataset used : [kaggle data set of 380000+ songs from metrolyrics](https://www.kaggle.com/gyani95/380000-lyrics-from-metrolyrics/home)
+
+
 # System flow
 ![alt text](https://github.com/archve/SearchEngine/blob/master/System_Workflow.PNG)
 
